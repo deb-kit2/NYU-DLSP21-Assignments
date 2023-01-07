@@ -7,5 +7,6 @@
 
 ### HW2
 
+- [ ] Theory
 - [x] hw2_cnn.ipynb
 - [ ] hw2_rnn.ipynb
