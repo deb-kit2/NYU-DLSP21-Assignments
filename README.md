@@ -7,6 +7,9 @@
 
 ### HW2
 
-- [ ] Theory
+- [x] Theory
 - [x] hw2_cnn.ipynb
 - [ ] hw2_rnn.ipynb
+
+Todo :
+Revise maths of RNNs and MML Book
