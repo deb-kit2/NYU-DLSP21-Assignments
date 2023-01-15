@@ -3,7 +3,7 @@
 ### HW1
 
 - [ ] Theory
-- [ ] mlp.py
+- [x] mlp.py
 
 ### HW2
 
