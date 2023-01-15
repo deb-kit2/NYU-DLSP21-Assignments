@@ -1,5 +1,5 @@
 ## Run results
 #### test1.py
-```bash
+```console
 python3 test1.py
 ```
